@@ -12,6 +12,15 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "jest": "^24.9.0"
+    "jest": "^24.9.0",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "latest",
+    "@babel/preset-react": "latest",
+    "babel-jest": "latest",
+    "jest": "latest",
+    "react-test-renderer": "latest"
   }
 }
